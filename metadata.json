@@ -1,0 +1,6 @@
+{
+  "name": "Eden League Bolt",
+  "description": "Eden League dashboard and administrative system powered by Supabase and AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
